@@ -13,7 +13,7 @@ struct Comp
 struct Comp MiniMaxi(int a[] , int n)
 
 { struct Comp minimax;
-int i;
+
 if (n==1)
 {
     minimax.max = a[0];
@@ -34,7 +34,7 @@ else
     minimax.min=a[0];
 }
 
-for(i=2; i<n; i++)
+for(int i=2; i<n; i++)
 {
     if(a[i] > minimax.max)
     minimax.max = a[i];

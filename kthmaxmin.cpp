@@ -18,7 +18,7 @@ int main()
 {
     int arr[] = {1213,233,2,44,55,677,22};
     int n =  sizeof(arr)/sizeof(arr[0]);
-    int k =1;
+    int k =1; //2 is the smallest 
 
     cout<<"Kth smallest element in the array \n"<<KthSmallest(arr,n,k);
     return 0;

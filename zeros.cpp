@@ -11,19 +11,19 @@ void printArr(int arr[], int n)
 // Function to sort the array of 0s, 1s and 2s 
 void sortArr(int arr[], int n) 
 { 
-    int i, cnt0 = 0, cnt1 = 0, cnt2 = 0; 
+    int i, count0 = 0, count1 = 0, count2 = 0; 
   
     // Counting the number of 0s, 1s and 2s in the array 
     for (i = 0; i < n; i++) { 
         switch (arr[i]) { 
         case 0: 
-            cnt0++; 
+            count0++; 
             break; 
         case 1: 
-            cnt1++; 
+            count1++; 
             break; 
         case 2: 
-            cnt2++; 
+            count2++; 
             break; 
         } 
     } 
@@ -32,21 +32,21 @@ void sortArr(int arr[], int n)
     i = 0; 
   
     // Store all the 0s in the beginning 
-    while (cnt0 > 0) { 
+    while (count0 > 0) { 
         arr[i++] = 0; 
-        cnt0--; 
+        count0--; 
     } 
   
     // store 1s 
-    while (cnt1 > 0) { 
+    while (count1 > 0) { 
         arr[i++] = 1; 
-        cnt1--; 
+        count1--; 
     } 
   
     // store 2s 
-    while (cnt2 > 0) { 
+    while (count2 > 0) { 
         arr[i++] = 2; 
-        cnt2--; 
+        count2--; 
     } 
   
     

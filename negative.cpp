@@ -23,7 +23,7 @@ void printArr(int arr[], int n)
 
 int main()
 {
-    int arr[] = { -1, 2, -3, 4, 5, 6, -7, 8, 9 };
+    int arr[] = { -1, 2, -3, 55, 32, 666, -17, 28, 129 };
     int n = sizeof(arr) / sizeof(arr[0]);
     sort(arr, n);
     printArr(arr, n);

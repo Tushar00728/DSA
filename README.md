@@ -5,3 +5,5 @@ Solution to some basic Data structure and Algorithm questions(C++)
 * kthmaxmin.cpp - A program to print the Kth largest or smallest number in the given array - O(nlogn)
 * zeros.cpp - A program to sort an array of 0s , 1s and 2s - O(n)
 * negative.cpp - A program to move all negative numbers to beginning and positive to end with constant extra space - O(n)
+* intersection.cpp - A program to find intersection of two arrays- O(n+m) n -size of array 1, m- size of array 2
+* union.cpp - A program to find union of two arrays- O(n+m) n -size of array 1, m- size of array 2

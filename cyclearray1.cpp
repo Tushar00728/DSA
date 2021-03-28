@@ -1,7 +1,7 @@
 # include <iostream>
 using namespace std;
  
-void rotate(int arr[], int n)
+void cyrotate(int arr[], int n)
 {
     int a = arr[n - 1], i;
     for (i = n - 1; i > 0; i--)

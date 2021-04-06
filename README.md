@@ -9,3 +9,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * union.cpp - A program to find union of two arrays- O(n+m) n -size of array 1, m- size of array 2
 * cyclearray1.cpp - A program to cyclically rotate an array by one - O(n)
 * maxsumcont.cpp - A program to find the largest sum contiguous subarray - O(n) 
+* minimizeheight.cpp - A program to Minimize the maximum difference between the heights - O(nlog n)
+

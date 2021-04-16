@@ -12,3 +12,4 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * minimizeheight.cpp - A program to Minimize the maximum difference between the heights - O(nlog n)
 * kadane.cpp - A program to find the largest Sum Contiguous Subarray using Kadane's Algorithm - O(n)
 * countinversion.cpp - A program to count Inversions in an array - O(n^2)
+* buyandsellstock.cpp - A program to find the maximum profit from a given array of stock prices - O(n)

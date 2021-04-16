@@ -10,5 +10,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * cyclearray1.cpp - A program to cyclically rotate an array by one - O(n)
 * maxsumcont.cpp - A program to find the largest sum contiguous subarray - O(n) 
 * minimizeheight.cpp - A program to Minimize the maximum difference between the heights - O(nlog n)
-* kadane.cpp - Largest Sum Contiguous Subarray using Kadane's Algorithm - O(n)
-
+* kadane.cpp - A program to find the largest Sum Contiguous Subarray using Kadane's Algorithm - O(n)
+* countinversion.cpp - A program to count Inversions in an array - O(n^2)

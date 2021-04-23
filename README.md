@@ -15,6 +15,7 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * buyandsellstock.cpp - A program to find the maximum profit from a given array of stock prices - O(n)
 * pairsum.cpp - Given an array of integers, and a number ‘sum’, find the number of pairs of integers in the array whose sum is equal to ‘sum’ - O(n)
 * threecommon.cpp - Find common elements in three sorted arrays - O(n1+n2+n3)
-* subzero.cpp - Program to check whether there is a subarray with sum 0 - O(n) 
+* subzero.cpp - Program to check whether there is a subarray with sum 0 - O(n)
+* maxprodsubarrray.cpp - Program to find the maximum product subarray - O(n)
 
 

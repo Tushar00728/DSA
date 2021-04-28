@@ -17,5 +17,6 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * threecommon.cpp - Find common elements in three sorted arrays - O(n1+n2+n3)
 * subzero.cpp - Program to check whether there is a subarray with sum 0 - O(n)
 * maxprodsubarrray.cpp - Program to find the maximum product subarray - O(n)
+* longestconssub.cpp - Program to find longest consecutive sequence - O(n)
 
 

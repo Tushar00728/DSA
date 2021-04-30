@@ -19,4 +19,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * maxprodsubarrray.cpp - Program to find the maximum product subarray - O(n)
 * longestconssub.cpp - Program to find longest consecutive sequence - O(n)
 * ndivk.cpp - Given an array of size n and a number k, find all elements that appear more than n/k times - O(n)
+* maxprofittwo.cpp - Maximum profit by buying and selling a share at most twice - O(n)
 

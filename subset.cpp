@@ -9,7 +9,7 @@ void isSubset(int arr1[], int arr2[], int m , int n) {
 
     }
 
-    int set_size = sub.size();  //settint the set size 
+    int set_size = sub.size();  //setting the set size 
     
     for(int j=0;j<n;j++) {
         sub.insert(arr2[j]);

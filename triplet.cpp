@@ -6,22 +6,22 @@ bool tripletSum(int arr[], int n, int sum)
 {
     int next,last;
 
-    sort(arr,arr+n);
+    sort(arr,arr+n);  //sorting the array
 
-    for(int i = 0; i<n-2; i++) {
+    for(int i = 0; i<n-2; i++) {        // i will go from 0 till the second last element 
         
-        next = i+1;
-        last = n-1;
+        next = i+1; //next to ith element
+        last = n-1; //last element
 
         while(next<last) {
-            if(arr[i]+arr[next]+arr[last] == sum) {
+            if(arr[i]+arr[next]+arr[last] == sum) {         //if triplet found
                 cout<<"Triplet for the given sum is "<<arr[i]<<", "<<arr[next]<<", "<<arr[last];
                 return true;
             }
             else if (arr[i]+arr[next]+arr[last]< sum)
-                next++;
+                next++;           //increase next if triplet sum is less than sum
             else
-                last--;
+                last--;           // decrease last is triplet sum larger than sum
 
     
 

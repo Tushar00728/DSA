@@ -32,7 +32,7 @@ bool tripletSum(int arr[], int n, int sum)
 
     }
 
-
+    cout<<"No triplet found";
     return false;
 
 

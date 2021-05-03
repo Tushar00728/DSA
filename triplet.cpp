@@ -41,7 +41,7 @@ bool tripletSum(int arr[], int n, int sum)
 
 int main() {
     int arr[] = {1,4,45,6,10,8};
-    int sum =22;
+    int sum = 11;
     int n = sizeof(arr)/sizeof(arr[0]);
 
     tripletSum(arr,n,sum);

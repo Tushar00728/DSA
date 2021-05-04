@@ -27,5 +27,5 @@ int main()
 {
 
    checkPalindrome("abba");
-   
+   return 0;
 }

@@ -13,7 +13,7 @@ int MinDiff(int arr[], int n , int k)
     int ans = arr[n-1]-arr[0];
 
     int small = arr[0]+k;
-    int big = arr[n-1]+k;
+    int big = arr[n-1]-k;
 
     if (small>big)
         swap(small,big);

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void checkPalindrome(char x[])
+void checkPalindrome(const char x[])
 {
 
     int i = 0;

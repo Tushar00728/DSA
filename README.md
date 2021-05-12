@@ -26,5 +26,8 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * triplet.cpp - Find a triplet that sum to a given value - O(n)
 
 ## Strings
+* reversestr.cpp
+* strpalindrome.cpp
+* stringrotation.cpp
 
 

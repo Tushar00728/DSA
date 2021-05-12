@@ -1,5 +1,7 @@
 # DSA
 Solution to some basic Data structure and Algorithm questions(C++) along with their time complexities
+
+## Arrays
 * reverse.cpp - A program to reverse the given array - O(n)
 * minimax.cpp - A program to find out the maximum and minimum element in an array using minimum number of comparisons - O(n)
 * kthmaxmin.cpp - A program to print the Kth largest or smallest number in the given array - O(nlogn)
@@ -22,4 +24,7 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * maxprofittwo.cpp - Maximum profit by buying and selling a share at most twice - O(n)
 * subset.cpp - Find whether an array is subset of another array - O(m+n)
 * triplet.cpp - Find a triplet that sum to a given value - O(n)
+
+## Strings
+
 

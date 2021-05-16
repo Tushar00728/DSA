@@ -29,5 +29,6 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * reversestr.cpp
 * strpalindrome.cpp
 * stringrotation.cpp
+* countandsay.cpp
 
 

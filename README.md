@@ -26,9 +26,10 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * triplet.cpp - Find a triplet that sum to a given value - O(n)
 
 ## Strings
-* reversestr.cpp
-* strpalindrome.cpp
-* stringrotation.cpp
-* countandsay.cpp
+* reversestr.cpp - Program to reverse string
+* strpalindrome.cpp - Check whether a String is Palindrome or not
+* stringrotation.cpp - Write a Code to check whether one string is a rotation of another
+* countandsay.cpp - Count and Say problem
+* strsubseq.cpp - 
 
 

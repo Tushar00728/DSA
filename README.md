@@ -32,5 +32,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * countandsay.cpp - Count and Say problem
 * longestpalindrome.cpp - Longest palindromic Substring
 * validshuffle.cpp - Write a Program to check whether a string is a valid shuffle of two strings or not
-
+* printallsubseq.cpp - Print all the subsequences of the string
 

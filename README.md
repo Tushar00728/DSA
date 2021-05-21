@@ -34,5 +34,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * validshuffle.cpp - Program to check whether a string is a valid shuffle of two strings or not
 * printallsubseq.cpp - Print all the subsequences of the string
 * permutationstr.cpp - Program to print all permutations of a given string
-* zeroonesubstr.cpp - Program to split the binary string into substrings with equal number of 0s and 1s
+* zeronesubstr.cpp - Program to split the binary string into substrings with equal number of 0s and 1s
 

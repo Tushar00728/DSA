@@ -58,9 +58,9 @@ int main()
     string str = "([])";
     
     if(balance_para(str)) 
-        cout<<"Balanced parantheses";
+        cout<<"Balanced paranthesis";
     else
-        cout<<"Unbalanced parantheses";
+        cout<<"Unbalanced paranthesis";
 
     return 0;
     

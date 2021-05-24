@@ -24,6 +24,7 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * maxprofittwo.cpp - Maximum profit by buying and selling a share at most twice - O(n)
 * subset.cpp - Find whether an array is subset of another array - O(m+n)
 * triplet.cpp - Find a triplet that sum to a given value - O(n)
+* next_permutation.cpp - Next permutation of the given array - O(n)
 
 ## Strings
 * reversestr.cpp - Program to reverse string

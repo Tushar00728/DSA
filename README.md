@@ -36,4 +36,5 @@ Solution to some basic Data structure and Algorithm questions(C++) along with th
 * printallsubseq.cpp - Print all the subsequences of the string
 * permutationstr.cpp - Program to print all permutations of a given string
 * zeronesubstr.cpp - Program to split the binary string into substrings with equal number of 0s and 1s
+* balanced_parenthesis - Program to check for balanced brackets in an expression 
 
